@@ -41,7 +41,7 @@ En POST-endpoint för att koppla en person till ett nytt intresse. Förväntar s
 En POST-endpoint för att lägga till en ny länk för ett intresse och en person. Förväntar sig en POST-förfrågan med URL:en i request bodyn och skapar en ny intresselänk i databasen. Returnerar en 200 OK-statuskod vid framgång och hanterar felaktig JSON-struktur genom att returnera en 400 Bad Request i sådant fall.
 
 
-
+![Uml-Diagramet]([[Skärmbild 2024-01-21 171639.png](https://github.com/Robinkalkan/MiniApi/blob/master/Sk%C3%A4rmbild%202024-01-21%20171639.png)https://github.com/Robinkalkan/MiniApi/blob/master/Sk%C3%A4rmbild%202024-01-21%20171639.png](https://github.com/Robinkalkan/MiniApi/blob/master/Uml-Diagram.png))
 
 
 
